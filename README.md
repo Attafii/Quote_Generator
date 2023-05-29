@@ -2,7 +2,7 @@
 
 This is a simple quote generator app built using Python and Tkinter. The app allows users to generate random quotes and copy them to the clipboard.
 
-<img src="https://i.ibb.co/bb7cjMF/og.jpg" alt="Quote Generator" width="50%" height="50%" style="display"/>
+<img src="https://ibb.co/7QGkKL5/og.jpg" alt="Quote Generator" width="50%" height="50%" style="display"/>
 
 ## About
 
