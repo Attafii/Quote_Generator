@@ -1,6 +1,6 @@
 ### Quote Generator App
 
-This is a simple quote generator app built using Python and Tkinter. The app allows users to generate random quotes and copy them to the clipboard.
+This is a simple quote generator app built using Python and Tkinter. The app allows users to generate random quotes and copy them to the clipboard.✨
 
 <img src="https://i.ibb.co/3v0RcQq/Quote-Generator.png" alt="Quote Generator" width="50%" height="50%" style="display"/>
 
