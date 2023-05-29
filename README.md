@@ -23,7 +23,7 @@ The Quote Generator is a cool application that provides users with random quotes
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/quote-generator-app.git
+   git clone https://github.com/Attafii/Quote-Generator-app.git
    
 ### How to Use
 
