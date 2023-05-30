@@ -32,17 +32,19 @@ Install PyInstaller by running the following command:
 
  ```shell
 pip install pyinstaller
-
+```
 Navigate to the directory where your Python program is located.
 
 Use the following command to create a single-file executable:
 
  ```shell
 pyinstaller --onefile app.py
+```
 Alternatively, if you have a setup script, you can use the following command:
 
  ```shell
 python setup.py build
+```
 The executable file will be generated in the dist directory.
    
 ### How to Use
