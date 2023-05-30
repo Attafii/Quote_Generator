@@ -25,6 +25,26 @@ The Quote Generator is a cool application that provides users with random quotes
    ```shell
    git clone https://github.com/Attafii/Quote-Generator.git
    
+ ### Creating an Executable
+To create an executable for your app, you can use PyInstaller. Follow these steps:
+
+Install PyInstaller by running the following command:
+
+ ```shell
+pip install pyinstaller
+
+Navigate to the directory where your Python program is located.
+
+Use the following command to create a single-file executable:
+
+ ```shell
+pyinstaller --onefile app.py
+Alternatively, if you have a setup script, you can use the following command:
+
+ ```shell
+python setup.py build
+The executable file will be generated in the dist directory.
+   
 ### How to Use
 
 1. Launch the app by running the quote.py file.
